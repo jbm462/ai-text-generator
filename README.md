@@ -18,4 +18,4 @@ This project is part of my journey learning:
 - AI/ML fundamentals
 - Pattern recognition
 - Python programming
-- Software development best practicesA project to build an AI text generator from scratch, learning core concepts of NLP and machine learning.
+- Software development best practices
