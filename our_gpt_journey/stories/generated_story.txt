@@ -1,0 +1,18 @@
+
+Prompt: boy on mars
+Generated Story: boy on mars 10,000 yards 2.3 2.39
+
+2017-10-31 Dolphins Browns Browns 4 15:02 3 16 CLE 4 1-10 Johnny Manziel dropback TD 15 10-6 Jay Cutler pass complete deep left to Daqquan Crennel for 14 yards 13 0.540 3.790 1.19
+
+2017-11-10 Lions Bears 2 11:09 4 4 DET 2 0-16 Eddie Lacy pass complete deep middle to Jerome Simpson
+--------------------------------------------------
+
+Prompt: the boy defeated the monster
+Generated Story: the boy defeated the monster and became king of the world, but then a mysterious threat called The Wolf came with his army. When he defeats the Wolf, The Wolf uses his powers to defeat everything but his father, who tried to capture him.
+
+The Wolf defeated the Monster of the night king by using his speed and his incredible strength when he created the monster known as "The Wolf King of the Night". After becoming the king, he also revealed his name and gave his position in the King
+--------------------------------------------------
+
+Prompt: /Users/nibiru/my_llm_project/.venv/bin/python /Users/nibiru/my_llm_project/simple_ai.py
+Generated Story: /Users/nibiru/my_llm_project/.venv/bin/python /Users/nibiru/my_llm_project/simple_ai.py -o simple_ai.py -o nibiru.core.python-simple -f nibiru_core.py -g nibiru_core.py -a nibiru_core.py This file can be used alongside the rest of this project. (Or if you
+--------------------------------------------------

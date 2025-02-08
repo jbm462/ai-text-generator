@@ -1,0 +1,5 @@
+llm-env/
+minGPT/
+get-pip.py
+__pycache__/
+.DS_Store
